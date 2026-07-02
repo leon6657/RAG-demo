@@ -1,6 +1,6 @@
 # RAG 知识库 + Agent + LangGraph 渐进式搭建方案
 
-**日期：** 2026-07-02
+
 **技术栈：** Python 3.12+ / LangChain / ChromaDB / DeepSeek API / BGE Embedding
 
 ---

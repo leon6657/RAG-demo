@@ -4,7 +4,7 @@
 
 路线：最小 RAG -> 优化 RAG -> Agent -> LangGraph
 
-设计文档：docs/2026-07-02-rag-knowledge-base-design.md
+设计文档：docs/rag-knowledge-base-design.md
 
 ## 技术栈
 
